@@ -1,0 +1,17 @@
+1.github open karo
+
+2.fir repository banao 
+
+3.fir aakar project ka folder banao 
+
+1 , mouse par right click karo
+2 . add new folder (name de do)
+
+4.uske baad
+usko click karke right click phir open in terminal karo
+
+5 .fir uske baad terminal me likho (code .)
+
+6 .to vs code ka terminal kholo thik(ctrl + `)
+
+7. index.html, css aur js ek hi folder me banao
