@@ -15,3 +15,22 @@ usko click karke right click phir open in terminal karo
 6 .to vs code ka terminal kholo thik(ctrl + `)
 
 7. index.html, css aur js ek hi folder me banao
+
+
+git init
+git add (file name ->)(.)
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/fsagrahari23/test-deploy.git
+git push -u origin main
+
+
+
+
+
+
+
+
+git add (file name ->)(.)
+git commit -m "jo bhi badali"
+git push -u origin main
